@@ -11,7 +11,7 @@ public class Input {
 		this.sc = new Scanner(System.in);
 		this.count = 0;
 	}
-	
+
 	public int input() {	
 		String y_n=null;
 		do {
