@@ -86,4 +86,5 @@ public class Employee {
 				"%-5s%5s%5s%5d%10d%7d%7d%10d%10d",
 				empno, name, dname, base, hopay, fampay, nightpay, total, salary);
 	}
+	
 }
